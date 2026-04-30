@@ -1,4 +1,4 @@
-# Update time: 2026-04-29 10:09:59
+# Update time: 2026-04-30 10:09:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -116,44 +116,45 @@
 ||gtlpa*.com^
 ||at*.doubanio.com^
 @@||cdn-msp*.18comic*.*^
-||bdcpro*.techweb.com.cn^
-||same*.stockstar.com^
-||res*.pinpai8.cn^
-||impservice*.youdao.com^
-||js*.abolezi.com^
-||impservice*.yodao.com^
-||ja*.gamersky.com^
-||qpb*.sohu.com^
-||ysdm*.ys137.com.cn^
-||bdlm*.hc360.com^
-||fpb1.chinacar.
 ||sax*.sina.
+||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
 ||uc*.atobo.com^
 ||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
 ||ya*.dwstatic.com^
-||ad*.on.cc^
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||static*.365inews.com^
 ||107.167.22.*.gif
-||tw-726620180914.*.run.app^
 ||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
+||same*.stockstar.com^
 ||gcw*.2liang.cn^
-||ax.*.ifeng.com^
+||fpb1.chinacar.
 ||121.204.246.*.gif
-||sam*.baby-kingdom.com^
 ||107.167.16.*.gif
-||zbb.bbb.*.pics^
+||qpb*.sohu.com^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||tw-726620180914.*.run.app^
+||res*.pinpai8.cn^
+||impservice*.youdao.com^
+||fanpingbi*.gaokao.com^
+||impservice*.yodao.com^
+||dn*.ixinwei.com^
+||bdlm*.hc360.com^
+||ad*.on.cc^
+||ax.*.ifeng.com^
+||js*.abolezi.com^
+||sam*.baby-kingdom.com^
+||zbb.bbb.*.pics^
+||ja*.gamersky.com^
+||ysdm*.ys137.com.cn^
 ||report.*.qq.com^
 ||bc.geocities.
 ||stw.extreme-down.
@@ -275,7 +276,6 @@
 ||device-metrics-*.amazon.com^
 ||track.*.roku.com^
 ||widgets.*.webengage.com^
-||adi*.cnool.net^
 ||ads*.depositfiles.com^
 ||aj1*.online^
 ||aff*.kolektiva.net^
@@ -462,7 +462,6 @@ analytics-*.aasaam.com
 ||bondzgi*.
 ||etargetnet.*.hu^
 ||ulog-*.ksapisrv.com^
-||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -487,6 +486,7 @@ analytics-*.aasaam.com
 ||wa.gmx.
 ||s*.skencituer.com^
 ||underclick.
+||advertising.civitai.
 ||cnt.yeptube.
 ||tag-based.s3.*.amazonaws.com^
 ||tracking.*.miui.com^
@@ -549,7 +549,6 @@ analytics-*.aasaam.com
 ||ad*.bilgin.pro^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||px*.mediahills.ru^
 ||subnewss*.net^
 ||ulog.*.kwai-pro.com^
@@ -575,6 +574,7 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||track.tiara.
 ||orbit*.lun.ua^
+||reachableads-av.*.amazonaws.com^
 ||popupclick.
 ||ad*.gyaloglo.hu^
 ||ad*.thisisgame.com^
@@ -584,6 +584,7 @@ analytics-*.aasaam.com
 |piwik.
 ||q*-publick.club^
 ||letssex.
+||ad-host-backup-*.aliyuncs.com^
 ||minitds-*.info^
 ||cl*.k5a.io^
 ||polaris*-normal-*.zijieapi.com^
@@ -622,13 +623,12 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
-||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||ad-host-backup-*.aliyuncs.com^
+||advert*.livesportmedia.eu^
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||prebid-*.rubiconproject.com^
 @@||cdn*.porn300.com^
-||advertising.civitai.
 Banner468x60
