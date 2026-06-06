@@ -1,4 +1,4 @@
-# Update time: 2026-06-05 10:39:51
+# Update time: 2026-06-06 10:27:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -119,33 +119,33 @@
 ||tw-726620180914.*.run.app^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
-||dm*.yxlady.com^
+||adi*.cnool.net^
 ||same*.stockstar.com^
+||uc*.atobo.com^
 ||res*.pinpai8.cn^
 ||impservice*.youdao.com^
-||gcw*.2liang.cn^
-||fanpingbi*.gaokao.com^
 ||impservice*.yodao.com^
-||dn*.ixinwei.com^
-||fpb1.chinacar.
+||bdlm*.hc360.com^
 ||ya*.dwstatic.com^
 ||ad*.on.cc^
-||fpb*.51edu.com^
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||zbb.bbb.*.pics^
 ||qpb*.sohu.com^
 ||static*.365inews.com^
+||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||67.21.92.*.gif
-||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
-||uc*.atobo.com^
+||gcw*.2liang.cn^
 ||d*.ruiwen.com^
-||bdlm*.hc360.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
+||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||d*.xinshipu.com^
+||fpb*.51edu.com^
 ||121.204.246.*.gif
 ||107.167.16.*.gif
 ||ja*.gamersky.com^
@@ -266,6 +266,7 @@
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||ecommerce-events*.adscale.com^
+||tracking-v*.a.run.app^
 ||tracking*.euroads.fi^
 ||ulog*.*^
 ||a*.smlog.co.kr^
@@ -312,6 +313,7 @@
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||fads*s.com^
+||tracking.geo.*.amazonaws.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||collector-*.protechts.net^
 ||attr-logs.*.amazonaws.com^
@@ -355,11 +357,13 @@
 ||apple-*.le.com^
 ||imp-*.jampp.com^
 ||mobileanalytics.*.amazonaws.com^
+||tracking.*.miui.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||event.*.karrotmarket.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
+||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||fads*z.com^
 ||prod.*.publishers.advertising.a2z.com^
@@ -489,7 +493,6 @@ analytics-*.aasaam.com
 ||advertising.civitai.
 ||cnt.yeptube.
 ||tag-based.s3.*.amazonaws.com^
-||tracking.*.miui.com^
 ||putrr*.com^
 ||alishop*.ru^
 ||pijama.*.elasticbeanstalk.com^
@@ -500,7 +503,6 @@ analytics-*.aasaam.com
 ||banner*.kinogo.by^
 ||suite*.linximpulse.net^
 ||cnt.nuvid.
-||trk*.vidible.tv^
 ||pop-under.
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
@@ -538,7 +540,6 @@ analytics-*.aasaam.com
 ||ulog*.kwai-pro.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
-||tracking-v*.a.run.app^
 ||collector.hamsterix.
 ||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
 ||matomo-demo-*.amazonaws.com^
@@ -610,7 +611,6 @@ analytics-*.aasaam.com
 ||broredir*s.site^
 ||admulti.
 ||parkdomainreal*.site^
-||tracking.geo.*.amazonaws.com^
 ||popunder.
 ||livetracker.*.pangea-cms.com^
 ||stat.tiara.
