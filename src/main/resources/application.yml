@@ -25,7 +25,7 @@ application:
       - 'https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt' #name: jiekouAD
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #name: AWAvenue Ads Rule
       - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt' #name: DNS-Blocklists Light
-      - 'https://hblock.molinero.dev/hosts_adblock.txt' #name: Hblock
+      #- 'https://hblock.molinero.dev/hosts_adblock.txt' #name: Hblock
       - 'https://abp.oisd.nl/basic/' #name: OISD Basic
       #自用添加↓
       - 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
