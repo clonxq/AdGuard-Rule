@@ -1,4 +1,4 @@
-# Update time: 2026-07-25 09:55:27
+# Update time: 2026-07-26 09:59:51
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -117,44 +117,44 @@
 ||at*.doubanio.com^
 @@||cdn-msp*.18comic*.*^
 ||tw-726620180914.*.run.app^
-||dm*.yxlady.com^
-||adi*.cnool.net^
-||res*.pinpai8.cn^
-||gcw*.2liang.cn^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||fpb1.chinacar.
-||ya*.dwstatic.com^
-||ad*.on.cc^
-||ax.*.ifeng.com^
-||fpb*.51edu.com^
-||js*.abolezi.com^
-||sam*.baby-kingdom.com^
-||zbb.bbb.*.pics^
-||ja*.gamersky.com^
-||qpb*.sohu.com^
-||ysdm*.ys137.com.cn^
-||sax*.sina.
-||bdcpro*.techweb.com.cn^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||67.21.92.*.gif
 ||tupian888.*.bcebos.com^
-||same*.stockstar.com^
-||uc*.atobo.com^
-||impservice*.youdao.com^
-||impservice*.yodao.com^
-||bdlm*.hc360.com^
-||d*.xinshipu.com^
+||res*.pinpai8.cn^
+||dn*.ixinwei.com^
+||fpb1.chinacar.
+||ya*.dwstatic.com^
+||ad*.on.cc^
+||fpb*.51edu.com^
 ||121.204.246.*.gif
+||js*.abolezi.com^
 ||107.167.16.*.gif
+||zbb.bbb.*.pics^
+||ja*.gamersky.com^
+||qpb*.sohu.com^
 ||static*.365inews.com^
-||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||107.167.22.*.gif
+||sax*.sina.
+||bdcpro*.techweb.com.cn^
+||dm*.yxlady.com^
+||adi*.cnool.net^
+||same*.stockstar.com^
+||uc*.atobo.com^
+||impservice*.youdao.com^
+||gcw*.2liang.cn^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||impservice*.yodao.com^
+||bdlm*.hc360.com^
+||ax.*.ifeng.com^
+||d*.xinshipu.com^
+||sam*.baby-kingdom.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
 ||report.*.qq.com^
 ||bc.geocities.
 ||stw.extreme-down.
@@ -192,7 +192,6 @@
 ||df.infra.shopee.
 ||158.247.208.
 ||23.109.82.
-||get-me-wow.
 ||142.91.159.
 |167.206.10.148^
 ||23.109.87.
@@ -489,6 +488,7 @@ analytics-*.aasaam.com
 ||wa.gmx.
 ||s*.skencituer.com^
 ||underclick.
+||advertising.civitai.
 ||cnt.yeptube.
 ||tag-based.s3.*.amazonaws.com^
 ||putrr*.com^
@@ -563,6 +563,7 @@ analytics-*.aasaam.com
 ||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
+||get-me-wow.
 ||analytics.vgtimes.
 ||cnt.proporn.
 ||popuptraf.
@@ -600,6 +601,7 @@ analytics-*.aasaam.com
 ||thegreatesthits.
 ||adserver1.
 ||ad*.mellesleg.hu^
+||rtb-*.anysex.com^
 ||sgtm.wimdu.
 ||countly-
 ||countly.
@@ -630,10 +632,8 @@ analytics-*.aasaam.com
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 ||advert*.livesportmedia.eu^
-||rtb-*.anysex.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
 ||prebid-*.rubiconproject.com^
 @@||cdn*.porn300.com^
-||advertising.civitai.
 Banner468x60
