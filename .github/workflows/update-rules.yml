@@ -6,8 +6,8 @@ on:
     paths-ignore:
       - '*.md'
       - '.DS_Store'
-  schedule:
-    - cron: '0 */24 * * *'  # 每 12 小时执行一次
+  #schedule:
+    #- cron: '0 */24 * * *'  # 每 12 小时执行一次
   workflow_dispatch:  # 允许手动触发
 
 env:
